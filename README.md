@@ -2,20 +2,24 @@
 ## 📅 Day-by-Day Plan (Sept 27 → Oct 2)
 ---
 
-### **Day 1 – Sept 27 (Today)**
+
+### **Day 1 – Sept 27 (Today) ✅**
 
 **🎯 Goal: Backend setup & authentication**
 
-- [ ] Setup **Express + TypeScript** project (separate repo).
-- [ ] Configure **Prisma + PostgreSQL** (db schema with User, Blog, Project, Resume).
-- [ ] Implement **JWT auth**:
+* [x] Setup **Express + TypeScript** project (separate repo).
 
-  - Register, Login, Logout.
-  - Password hashing with bcrypt.
-  - Middleware for `auth` & `role-based` routes.
+* [x] Configure **Prisma + PostgreSQL** (db schema with User, Blog, Project, Resume).
 
-- [ ] Test auth routes with Postman.
-- [ ] Commit progress to GitHub (`init backend`, `setup prisma schema`, `auth module`).
+* [x] Implement **JWT auth**:
+
+  * [x] Register, Login, Logout.
+  * [x] Password hashing with bcrypt.
+  * [x] Middleware for `auth` & `role-based` routes.
+
+* [x] Test auth routes with Postman / curl.
+
+* [x] Commit progress to GitHub (`init backend`, `setup prisma schema`, `auth module`).
 
 ---
 
